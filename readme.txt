@@ -1,4 +1,11 @@
 If you have already MinGW (not MinGW64) installed Dowload just Graphics header file.
+
+1) Copy "graphics.h" and "winbgim.h" files to "include" folder of CodeBlocks directory.
+   Default location is ("C:\Program Files (x86)\CodeBlocks\MinGW\include\")
+
+2) Copy "libbgi.a" to file to "lib" folder of CodeBlocks directory.
+   Default location is ("C:\Program Files (x86)\CodeBlocks\MinGW\lib\")
+
 If not then Download The Binary Release > v1 > MinGW.with.graphics.zip
 Copy all the files in your MinGW Folder.
 
