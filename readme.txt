@@ -1,5 +1,5 @@
 If you have already MinGW (not MinGW64) installed Dowload just Graphics header file.
-If not then Download The Binary Release & Delete Graphics header file.
+If not then Download The Binary Release > v1 > MinGW.with.graphics.zip
 Copy all the files in your MinGW Folder.
 
 1) Open CodeBlocks and go to (Settings > Compiler > Linker Settings)
